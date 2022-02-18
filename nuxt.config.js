@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Stijn ter Steege | Full Stack Developer | Apps, websites and hosting 🚀',
+    title: 'Stijn ter Steege | Full Stack Developer 🚀',
     htmlAttrs: {
       lang: 'en'
     },

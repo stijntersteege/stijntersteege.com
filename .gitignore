@@ -1,4 +1,3 @@
-# Created by .ignore support plugin (hsz.mobi)
 ### Node template
 # Logs
 /logs
@@ -67,6 +66,7 @@ typings/
 
 # nuxt.js build output
 .nuxt
+/dist
 
 # vuepress build output
 .vuepress/dist
