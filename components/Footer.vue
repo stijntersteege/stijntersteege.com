@@ -37,7 +37,7 @@
         <div>
           <span class="text-base font-bold tracking-wide text-teal-accent-400">Let's connect</span>
           <div class="flex items-center mt-1 space-x-3">
-            <a href="https://www.linkedin.com/in/stijntersteege/?locale=en_US" target="_blank"
+            <a href="https://www.linkedin.com/in/stijntersteege/?locale=en_US"
                class="transition-colors duration-300 text-deep-purple-100 hover:text-teal-accent-400">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-6">
                 <path
