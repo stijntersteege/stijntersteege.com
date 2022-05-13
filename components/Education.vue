@@ -67,7 +67,7 @@
           <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-indigo-50">
             <div class="flex items-center mb-1">
               <span
-                  class="flex items-center justify-center w-24 h-6 mr-2 text-xs font-medium text-light-blue-900 rounded md:text-white bg-light-blue-accent-400 md:bg-blue-accent-400">Specialisation</span>
+                  class="flex items-center justify-center w-24 h-6 mr-2 text-xs font-medium text-white rounded md:text-white bg-light-blue-accent-400 md:bg-blue-accent-400">Specialisation</span>
               <p class="text-lg font-semibold sm:text-base">Big Data Technologies</p>
             </div>
             <p class="text-sm text-gray-900">
