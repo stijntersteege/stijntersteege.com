@@ -1,9 +1,9 @@
 <template>
   <div class="relative">
     <img
-        src="https://images.pexels.com/photos/2031706/pexels-photo-2031706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-        class="absolute inset-0 object-cover w-full h-full" alt=""/>
-    <div class="relative bg-gray-900 bg-opacity-60">
+        src="switserland-oeschinensee.jpeg"
+        class="absolute inset-0 object-cover w-full h-full" alt="Stijn ter Steege"/>
+    <div class="relative bg-gray-900 bg-opacity-30">
       <div class="absolute inset-x-0 bottom-0">
         <svg viewBox="0 0 224 12" fill="currentColor" class="w-full -mb-1 text-white" preserveAspectRatio="none">
           <path

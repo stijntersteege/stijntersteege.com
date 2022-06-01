@@ -28,7 +28,7 @@
         </p>
       </div>
       <div>
-        <div class="grid gap-6 md:grid-cols-2 md:col-span-2 lg:col-span-3">
+        <div class="grid gap-6 grid-cols-1 col-span-1 md:grid-cols-2 md:col-span-2">
           <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-indigo-50">
             <div class="flex items-center mb-1">
               <span
@@ -61,7 +61,7 @@
             </div>
             <p class="text-sm text-gray-900">
               This minor has helped me leveling up my sales skills by working part-time as a salesman combined with an
-              intensive training program, I took my sales skills to the next level.
+              intensive training program.
             </p>
           </div>
           <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-indigo-50">

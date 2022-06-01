@@ -59,7 +59,7 @@
         </div>
       </div>
       <div>
-        <img class="object-cover w-full h-full rounded shadow-lg" src="stijntersteege.jpg" alt="Stijn ter Steege"/>
+        <img class="object-cover w-full h-full rounded shadow-lg" src="stijntersteege-augstmatthorn.jpeg" alt="Stijn ter Steege"/>
       </div>
     </div>
   </div>

@@ -302,9 +302,9 @@
     </div>
     <div class="relative mt-8">
       <img class="object-cover w-full h-56 sm:h-96"
-           src="https://images.pexels.com/photos/270373/pexels-photo-270373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+           src="switserland-lauterbrunnen.jpeg"
            alt="Code"/>
-      <div class="absolute inset-0 bg-gray-900 bg-opacity-50"></div>
+      <div class="absolute inset-0 bg-gray-900 bg-opacity-25"></div>
     </div>
   </div>
 </template>

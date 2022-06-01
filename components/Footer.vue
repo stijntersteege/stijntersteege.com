@@ -11,7 +11,7 @@
           <p class="text-base text-gray-700 md:text-lg">
             Feel free to send me a good old-fashioned <a href="mailto:mail@stijntersteege.com"
                                                          class="underline text-blue-400 hover:text-blue-700">email</a>
-            or slide into my DMs on <a href="https://linkedin.com/in/stijntersteege"
+            or slide into my DMs on <a href="https://www.linkedin.com/in/stijntersteege/?locale=en_US"
                                        class="underline text-blue-400 hover:text-blue-700">LinkedIn</a>. I’ll buy the
             coffee ☕.
           </p>
@@ -31,7 +31,7 @@
         md:flex md:items-center md:justify-between
         lg:px-8">
       <div class="flex justify-center space-x-2 md:order-2">
-        <a href="https://linkedin.com/in/stijntersteege"
+        <a href="https://www.linkedin.com/in/stijntersteege/?locale=en_US"
            class="text-gray-500 hover:text-gray-600">
           <span class="sr-only">LinkedIn</span>
           <svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="h-6 w-5">
